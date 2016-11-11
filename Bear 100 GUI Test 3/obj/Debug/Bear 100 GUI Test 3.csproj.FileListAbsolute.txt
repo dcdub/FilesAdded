@@ -12,6 +12,6 @@ C:\Users\Owner\Documents\Visual Studio 2015\Projects\Bear 100 GUI Test 3\Bear 10
 C:\Users\A01070491\Downloads\Bear Trap Project\Bear 100 GUI Test 3\Bear 100 GUI Test 3\bin\Debug\Bear 100 GUI Test 3.exe.config
 C:\Users\A01070491\Downloads\Bear Trap Project\Bear 100 GUI Test 3\Bear 100 GUI Test 3\obj\Debug\Bear 100 GUI Test 3.exe
 C:\Users\A01070491\Downloads\Bear Trap Project\Bear 100 GUI Test 3\Bear 100 GUI Test 3\obj\Debug\Bear 100 GUI Test 3.pdb
-E:\Users\DRC Lab\Source\Repos\filesadded\Bear 100 GUI Test 3\bin\Debug\Bear 100 GUI Test 3.exe.config
-E:\Users\DRC Lab\Source\Repos\filesadded\Bear 100 GUI Test 3\obj\Debug\Bear 100 GUI Test 3.exe
-E:\Users\DRC Lab\Source\Repos\filesadded\Bear 100 GUI Test 3\obj\Debug\Bear 100 GUI Test 3.pdb
+C:\Users\A01070491\AppData\Local\GitHub\TutorialRepository_d0aa732a2b4666b3029e2320f1a06cd39e99c9fc\new-repo\Bear 100 GUI Test 3\bin\Debug\Bear 100 GUI Test 3.exe.config
+C:\Users\A01070491\AppData\Local\GitHub\TutorialRepository_d0aa732a2b4666b3029e2320f1a06cd39e99c9fc\new-repo\Bear 100 GUI Test 3\obj\Debug\Bear 100 GUI Test 3.exe
+C:\Users\A01070491\AppData\Local\GitHub\TutorialRepository_d0aa732a2b4666b3029e2320f1a06cd39e99c9fc\new-repo\Bear 100 GUI Test 3\obj\Debug\Bear 100 GUI Test 3.pdb
