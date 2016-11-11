@@ -1,0 +1,17 @@
+c:\users\owner\documents\visual studio 2015\Projects\Bear 100 GUI Test 3\Bear 100 GUI Test 3\bin\Debug\Bear 100 GUI Test 3.exe.config
+c:\users\owner\documents\visual studio 2015\Projects\Bear 100 GUI Test 3\Bear 100 GUI Test 3\bin\Debug\Bear 100 GUI Test 3.exe
+c:\users\owner\documents\visual studio 2015\Projects\Bear 100 GUI Test 3\Bear 100 GUI Test 3\bin\Debug\Bear 100 GUI Test 3.pdb
+c:\users\owner\documents\visual studio 2015\Projects\Bear 100 GUI Test 3\Bear 100 GUI Test 3\obj\Debug\Bear_100_GUI_Test_3.Form1.resources
+c:\users\owner\documents\visual studio 2015\Projects\Bear 100 GUI Test 3\Bear 100 GUI Test 3\obj\Debug\Bear_100_GUI_Test_3.Properties.Resources.resources
+c:\users\owner\documents\visual studio 2015\Projects\Bear 100 GUI Test 3\Bear 100 GUI Test 3\obj\Debug\Bear 100 GUI Test 3.csproj.GenerateResource.Cache
+c:\users\owner\documents\visual studio 2015\Projects\Bear 100 GUI Test 3\Bear 100 GUI Test 3\obj\Debug\Bear 100 GUI Test 3.exe
+c:\users\owner\documents\visual studio 2015\Projects\Bear 100 GUI Test 3\Bear 100 GUI Test 3\obj\Debug\Bear 100 GUI Test 3.pdb
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\Bear 100 GUI Test 3\Bear 100 GUI Test 3\obj\Debug\Bear 100 GUI Test 3.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\Bear 100 GUI Test 3\Bear 100 GUI Test 3\bin\Debug\System.Data.SQLite.dll
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\Bear 100 GUI Test 3\Bear 100 GUI Test 3\bin\Debug\System.Data.SQLite.xml
+C:\Users\A01070491\Downloads\Bear Trap Project\Bear 100 GUI Test 3\Bear 100 GUI Test 3\bin\Debug\Bear 100 GUI Test 3.exe.config
+C:\Users\A01070491\Downloads\Bear Trap Project\Bear 100 GUI Test 3\Bear 100 GUI Test 3\obj\Debug\Bear 100 GUI Test 3.exe
+C:\Users\A01070491\Downloads\Bear Trap Project\Bear 100 GUI Test 3\Bear 100 GUI Test 3\obj\Debug\Bear 100 GUI Test 3.pdb
+E:\Users\DRC Lab\Source\Repos\filesadded\Bear 100 GUI Test 3\bin\Debug\Bear 100 GUI Test 3.exe.config
+E:\Users\DRC Lab\Source\Repos\filesadded\Bear 100 GUI Test 3\obj\Debug\Bear 100 GUI Test 3.exe
+E:\Users\DRC Lab\Source\Repos\filesadded\Bear 100 GUI Test 3\obj\Debug\Bear 100 GUI Test 3.pdb
