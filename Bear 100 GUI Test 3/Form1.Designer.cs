@@ -304,7 +304,7 @@
             // 
             this.button2.Dock = System.Windows.Forms.DockStyle.Fill;
             this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 26.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button2.Location = new System.Drawing.Point(173, 55);
+            this.button2.Location = new System.Drawing.Point(172, 55);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(126, 47);
             this.button2.TabIndex = 17;
@@ -315,7 +315,7 @@
             // 
             this.button1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 26.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.Location = new System.Drawing.Point(173, 3);
+            this.button1.Location = new System.Drawing.Point(172, 3);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(126, 46);
             this.button1.TabIndex = 16;
@@ -328,7 +328,7 @@
             this.textBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 60F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox1.Location = new System.Drawing.Point(3, 3);
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(164, 98);
+            this.textBox1.Size = new System.Drawing.Size(163, 98);
             this.textBox1.TabIndex = 15;
             // 
             // lblTime
@@ -358,7 +358,7 @@
             this.tableLayoutPanel1.ColumnCount = 3;
             this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 56.28415F));
             this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 43.71585F));
-            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 119F));
+            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 120F));
             this.tableLayoutPanel1.Controls.Add(this.button1, 1, 0);
             this.tableLayoutPanel1.Controls.Add(this.button2, 1, 1);
             this.tableLayoutPanel1.Controls.Add(this.textBox1, 0, 0);
@@ -375,7 +375,7 @@
             // button3
             // 
             this.button3.Font = new System.Drawing.Font("Microsoft Sans Serif", 26.25F);
-            this.button3.Location = new System.Drawing.Point(305, 3);
+            this.button3.Location = new System.Drawing.Point(304, 3);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(113, 46);
             this.button3.TabIndex = 18;
@@ -385,7 +385,7 @@
             // button4
             // 
             this.button4.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.25F);
-            this.button4.Location = new System.Drawing.Point(305, 55);
+            this.button4.Location = new System.Drawing.Point(304, 55);
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(113, 47);
             this.button4.TabIndex = 19;
