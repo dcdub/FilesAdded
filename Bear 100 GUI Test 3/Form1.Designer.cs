@@ -66,9 +66,9 @@
             this.lblTime = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
             this.tableLayoutPanel1 = new System.Windows.Forms.TableLayoutPanel();
-            this.timer1 = new System.Windows.Forms.Timer(this.components);
             this.button3 = new System.Windows.Forms.Button();
             this.button4 = new System.Windows.Forms.Button();
+            this.timer1 = new System.Windows.Forms.Timer(this.components);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView4)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView3)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView2)).BeginInit();
@@ -304,7 +304,7 @@
             // 
             this.button2.Dock = System.Windows.Forms.DockStyle.Fill;
             this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 26.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button2.Location = new System.Drawing.Point(174, 55);
+            this.button2.Location = new System.Drawing.Point(173, 55);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(126, 47);
             this.button2.TabIndex = 17;
@@ -315,7 +315,7 @@
             // 
             this.button1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 26.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.Location = new System.Drawing.Point(174, 3);
+            this.button1.Location = new System.Drawing.Point(173, 3);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(126, 46);
             this.button1.TabIndex = 16;
@@ -328,14 +328,14 @@
             this.textBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 60F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox1.Location = new System.Drawing.Point(3, 3);
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(165, 98);
+            this.textBox1.Size = new System.Drawing.Size(164, 98);
             this.textBox1.TabIndex = 15;
             // 
             // lblTime
             // 
             this.lblTime.AutoSize = true;
             this.lblTime.Font = new System.Drawing.Font("Microsoft Sans Serif", 30F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblTime.ForeColor = System.Drawing.Color.Red;
+            this.lblTime.ForeColor = System.Drawing.Color.LimeGreen;
             this.lblTime.Location = new System.Drawing.Point(452, 41);
             this.lblTime.Name = "lblTime";
             this.lblTime.Size = new System.Drawing.Size(226, 46);
@@ -358,7 +358,7 @@
             this.tableLayoutPanel1.ColumnCount = 3;
             this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 56.28415F));
             this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 43.71585F));
-            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 118F));
+            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 119F));
             this.tableLayoutPanel1.Controls.Add(this.button1, 1, 0);
             this.tableLayoutPanel1.Controls.Add(this.button2, 1, 1);
             this.tableLayoutPanel1.Controls.Add(this.textBox1, 0, 0);
@@ -372,15 +372,10 @@
             this.tableLayoutPanel1.Size = new System.Drawing.Size(422, 105);
             this.tableLayoutPanel1.TabIndex = 23;
             // 
-            // timer1
-            // 
-            this.timer1.Enabled = true;
-            this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
-            // 
             // button3
             // 
             this.button3.Font = new System.Drawing.Font("Microsoft Sans Serif", 26.25F);
-            this.button3.Location = new System.Drawing.Point(306, 3);
+            this.button3.Location = new System.Drawing.Point(305, 3);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(113, 46);
             this.button3.TabIndex = 18;
@@ -390,12 +385,17 @@
             // button4
             // 
             this.button4.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.25F);
-            this.button4.Location = new System.Drawing.Point(306, 55);
+            this.button4.Location = new System.Drawing.Point(305, 55);
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(113, 47);
             this.button4.TabIndex = 19;
             this.button4.Text = "SEARCH";
             this.button4.UseVisualStyleBackColor = true;
+            // 
+            // timer1
+            // 
+            this.timer1.Enabled = true;
+            this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
             // 
             // Form1
             // 
